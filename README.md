@@ -7,7 +7,6 @@
   💡 Always exploring the intersection of <b>AI, healthcare, and automation</b>.<br>
   🎓 <b>M.S. in Applied Machine Learning</b>, University of Maryland, College Park (Expected 2027)<br>
   🎓 <b>B.Tech in Artificial Intelligence and Data Science</b>, Vishwakarma University, Pune (CGPA 8.78/10)<br>
-  💼 <b>AI Engineer</b> at Universidad Maria Auxiliadora, Lima, Peru
 </p>
 
 ---
@@ -119,7 +118,7 @@ Used GANs to generate realistic traffic scenarios, improving robustness of auton
 </p>
 
 ---
-## Hi there 👋
+
 
 <!--
 **upratham/upratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
