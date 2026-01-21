@@ -113,6 +113,14 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 </p>
 
 ---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upratham&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
 
 ## 📊 GitHub stats
 
