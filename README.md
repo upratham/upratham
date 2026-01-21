@@ -39,7 +39,17 @@
 
 > Want something highlighted here? Ping me on LinkedIn and I’ll pin + polish the repo README.
 
----
+## 🏆 Achievements
+
+- 🧠 Featured in **Times of India** for developing a real-time fall detection system  
+- 🎖️ Researcher at **Energy Research Institute, NTU Singapore**  
+- 🥇 **Google Developer Student Club (AI/ML Core Team Member)**  
+- 📘 Published **5 IEEE/Elsevier Research Papers**  
+- 🧩 **Host**, “Machine Learning Study Jams” – Google DSC  
+- 🏅 **Silver Medal**, Vishwakarma University Chess Tournament 2023  
+- 🥈 **Poetry & Fashion Competition Winner**, Aarambha 2021  
+- 🥇 **District Topper**, Maharashtra Olympiad 2016  
+
 
 ## 📚 Publications (selected)
 
