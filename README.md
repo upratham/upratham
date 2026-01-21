@@ -82,9 +82,6 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
   <img src="https://img.shields.io/badge/DVC-000000?style=flat-square&logo=dvc&logoColor=white" />
 </p>
 
-> Tip: switch to light icons by adding `&theme=light` to the Skill Icons URLs.
-
-
 ---
 
 ## 📊 GitHub stats
