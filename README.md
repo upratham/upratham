@@ -90,16 +90,11 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upratham&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upratham&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=upratham&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=upratham&hide_border=true&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upratham&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upratham&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" height="165" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=upratham&style=flat-square&color=0E75B6" alt="profile views" />
-</p>
