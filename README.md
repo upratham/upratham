@@ -23,7 +23,7 @@
 - I build **applied ML systems** end-to-end: data → modeling → evaluation → deployment.
 - Past work includes **virtual labs + learning analytics**, **student attentiveness monitoring**, **fall detection**, and **GAN-based scenario generation**.
 - I enjoy projects at the intersection of **healthcare, education, and automation**.
-- Open to: **research collaborations**, **ML/DS internships**, and **open-source contributions**.
+- Open to: **research collaborations**, **ML/DS Projects**, and **open-source contributions**.
 
 ---
 
