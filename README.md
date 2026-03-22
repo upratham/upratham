@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:upratham2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#0a7f7a786b7e626b67383a3a384a6d676b636624696567"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/upratham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/upratham"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=aePElnUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
@@ -136,34 +136,36 @@ An efficient deep learning system for detecting and classifying brain tumors fro
 
 ---
 
-### 🏥 Healthcare SaaS — Maternal & Clinical Risk Platform
+### 🏥 Healthcare SaaS — MediNotes AI
 
 <table>
 <tr>
 <td width="70%">
 
-**[💊 Healthcare SaaS — Clinical Risk Intelligence App](https://github.com/upratham/Healthcare-SaaS-Risk-Platform)**
+**[💊 MediNotes AI — AI-Powered Clinical Documentation SaaS](https://github.com/upratham/healthcare-ai-saas)** &nbsp; 🌐 [Live Demo](https://healthcare-ai-saas.vercel.app)
 
-A full-stack healthcare SaaS application for real-time clinical risk detection. Leverages ensemble ML models (Random Forest + ANN) to predict maternal health risk levels from patient vitals, deployable as a multi-tenant cloud service.
+A production-grade, full-stack healthcare SaaS that helps doctors instantly convert raw consultation notes into structured medical summaries, action items, and patient-friendly email drafts — all streamed in real time via OpenAI.
 
 **Highlights:**
-- 👩‍⚕️ Maternal health risk classification (low / mid / high risk)
-- 🧮 Ensemble of Random Forest + Artificial Neural Networks
-- 🔐 HIPAA-conscious design with role-based access
-- 📈 Interactive risk dashboard with patient history tracking
-- ☁️ Deployable as SaaS with multi-user support
-- 📘 **Published:** IEEE ICCCIT 2025 — Collating RF & ANN for Maternal Health Risk Detection
+- 🩺 Converts doctor notes → visit summary + next steps + patient email (3-in-1)
+- ⚡ Real-time AI streaming responses via OpenAI API
+- 🔐 Secure auth & subscription-gated access with **Clerk + Clerk Billing**
+- 🔒 JWT-verified FastAPI backend per request
+- 🐳 Dockerized & deployed serverlessly on **Vercel**
+- 🌐 Full-stack: Next.js frontend + FastAPI Python backend
 
-**Stack:** `Python` `Flask` `FastAPI` `scikit-learn` `TensorFlow` `MySQL` `Docker` `HTML/CSS`
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `FastAPI` `OpenAI API` `Clerk Auth` `Clerk Billing` `Docker` `Vercel`
 
 </td>
 <td width="30%" align="center">
 
-![Healthcare](https://img.shields.io/badge/Specialty-Healthcare%20AI-teal?style=for-the-badge&logo=cross&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Specialty-Healthcare%20SaaS-teal?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?flat-square&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?flat-square&logo=scikitlearn&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE%20Published-00629B?flat-square&logo=ieee&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -234,6 +236,8 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 
 ### 🌐 Web & Data  
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -256,7 +260,7 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:upratham2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="/cdn-cgi/l/email-protection#ef9a9f9d8e9b878e82dddfdfddaf88828e8683c18c8082"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/upratham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/upratham"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -266,7 +270,4 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upratham&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
+  <img src="https://github-readme
