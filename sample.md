@@ -39,7 +39,7 @@
 <tr>
 <td width="70%">
 
-**[🚗 Vehicle Predictive Maintenance — MLOps Pipeline](https://github.com/upratham/Vehicle-Maintenance-Prediction-MLOps.git)**
+**[🚗 Vehicle Predictive Maintenance — MLOps Pipeline](https://github.com/upratham/Vehicle-Predictive-Maintenance-MLOps)**
 
 End-to-end MLOps pipeline for predicting vehicle failures before they occur. Covers the full lifecycle from raw sensor ingestion to a Dockerized REST API with experiment tracking and automated retraining.
 
@@ -74,7 +74,7 @@ End-to-end MLOps pipeline for predicting vehicle failures before they occur. Cov
 <tr>
 <td width="70%">
 
-**[🧾 InsureLLM — RAG-Powered Insurance Intelligence](https://github.com/upratham/LLM-RAG-Insurllm.git)**
+**[🧾 InsureLLM — RAG-Powered Insurance Intelligence](https://github.com/upratham/InsureLLM)**
 
 A production-grade Retrieval-Augmented Generation (RAG) application tailored for the insurance domain. Users can query complex policy documents, claim histories, and underwriting guidelines through a natural language interface backed by a vector knowledge base.
 
@@ -108,7 +108,7 @@ A production-grade Retrieval-Augmented Generation (RAG) application tailored for
 <tr>
 <td width="70%">
 
-**[🧬 Brain Tumor Detection — Deep Learning + MRI Analysis](https://github.com/upratham/Brain-Tumor-Classification.git)**
+**[🧬 Brain Tumor Detection — Deep Learning + MRI Analysis](https://github.com/upratham/DL-BrainTumor-Detection)**
 
 An efficient deep learning system for detecting and classifying brain tumors from MRI scans. Backed by a peer-reviewed IEEE publication, this project applies CNNs and transfer learning to support radiologists in clinical decision-making.
 
@@ -142,7 +142,7 @@ An efficient deep learning system for detecting and classifying brain tumors fro
 <tr>
 <td width="70%">
 
-**[💊 MediNotes AI — AI-Powered Clinical Documentation SaaS](https://github.com/upratham/healthcare-ai-saas.git)** &nbsp; 🌐 [Live Demo](https://healthcare-ai-saas.vercel.app)
+**[💊 MediNotes AI — AI-Powered Clinical Documentation SaaS](https://github.com/upratham/healthcare-ai-saas)** &nbsp; 🌐 [Live Demo](https://healthcare-ai-saas.vercel.app)
 
 A production-grade, full-stack healthcare SaaS that helps doctors instantly convert raw consultation notes into structured medical summaries, action items, and patient-friendly email drafts — all streamed in real time via OpenAI.
 
@@ -177,11 +177,11 @@ A production-grade, full-stack healthcare SaaS that helps doctors instantly conv
 
 | Project | What it is | Tech |
 |---|---|---|
-| 🔥 **[LLM Debate Competition](https://github.com/upratham/LLM-Debate-Competition.git)** | Multi-agent debate simulator (two debaters + optional judge) | Python, OpenAI-compatible APIs, Ollama |
-| 🧾 **[Company Brochure Generator](https://github.com/upratham/LLM-AI-Comapany-Broucher-Generator.git)** | Scrape a website + generate a sales brochure using Gemini or local LLMs | Python, BeautifulSoup, Gemini, Ollama |
-| 🌐 **[Website Summarizer](https://github.com/upratham/LLM-AI-Website-Summarizer.git)** | Summarize any webpage with OpenAI API or Ollama via notebooks | Python, BeautifulSoup, OpenAI SDK, Ollama |
-| ⚙️ **[MLOps Complete Pipeline](https://github.com/upratham/MLops-Complete-Pipeline.git)** | Reproducible ML pipeline with **DVC** + optional **AWS S3** remote | Python, DVC, dvclive, AWS |
-| 💤 **[Sleep Disorder Prediction](https://github.com/upratham/DS-Sleep-Disorder-analysis.git)** | Classification pipeline with EDA + feature engineering + model comparison | Python, scikit-learn, notebooks |
+| 🔥 **[LLM Debate Competition](https://github.com/upratham/LLM-Debate-Competition)** | Multi-agent debate simulator (two debaters + optional judge) | Python, OpenAI-compatible APIs, Ollama |
+| 🧾 **[Company Brochure Generator](https://github.com/upratham/LLM-AI-Comapany-Broucher-Generator)** | Scrape a website + generate a sales brochure using Gemini or local LLMs | Python, BeautifulSoup, Gemini, Ollama |
+| 🌐 **[Website Summarizer](https://github.com/upratham/LLM-AI-Website-Summarizer)** | Summarize any webpage with OpenAI API or Ollama via notebooks | Python, BeautifulSoup, OpenAI SDK, Ollama |
+| ⚙️ **[MLOps Complete Pipeline](https://github.com/upratham/MLops-Complete-Pipeline)** | Reproducible ML pipeline with **DVC** + optional **AWS S3** remote | Python, DVC, dvclive, AWS |
+| 💤 **[Sleep Disorder Prediction](https://github.com/upratham/DS-Sleep-Disorder-analysis)** | Classification pipeline with EDA + feature engineering + model comparison | Python, scikit-learn, notebooks |
 
 ---
 
@@ -270,5 +270,7 @@ Full list → **Google Scholar**: https://scholar.google.com/citations?user=aePE
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upratham&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=upratham&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
